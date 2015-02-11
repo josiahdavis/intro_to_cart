@@ -1,3 +1,3 @@
-# intro_to_cart
-Sample teaching on the Classification and Regression Tree algorithm
+# Introduction to CART
+Brief introduction to the Classification and Regression Tree (CART) algorithm
 Snippets of R code included
